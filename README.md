@@ -14,7 +14,7 @@ Click [here](https://youtube.com/shorts/j4ID9MyL3gA?feature=share4) to watch the
 
 ## Screenshots
 
-![Home Screen](https://github.com/bunty-kumar/aesthetic_wallpaper/blob/master/home_screen.JPEG)
+![Choose Type Screen](https://github.com/bunty-kumar/check_internet_globally/blob/master/choose_type_screen.jpg?raw=true)
 ![Home Screen Search Filter](https://github.com/bunty-kumar/aesthetic_wallpaper/blob/master/home_screen_search_filter.JPEG)
 ![download image](https://github.com/bunty-kumar/aesthetic_wallpaper/blob/master/download_image.JPEG)
 ![set wallpaper](https://github.com/bunty-kumar/aesthetic_wallpaper/blob/master/set_wallpaper_menu.JPEG)
