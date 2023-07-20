@@ -17,7 +17,8 @@ Click [here](https://youtube.com/shorts/j4ID9MyL3gA?feature=share4) to watch the
 ![Type Screen](https://github.com/bunty-kumar/check_internet_globally/blob/master/choose_type_screen.jpg?raw=true)
 ![Check Internet off](https://github.com/bunty-kumar/check_internet_globally/blob/master/internet_check_screen_off.jpg?raw=true)
 ![Check Internet off](https://github.com/bunty-kumar/check_internet_globally/blob/master/internet_check_screen_on.jpg?raw=true)
-![set wallpaper](https://github.com/bunty-kumar/aesthetic_wallpaper/blob/master/set_wallpaper_menu.JPEG)
+![Screen1 off](https://github.com/bunty-kumar/check_internet_globally/blob/master/screen1_internet_off.jpg?raw=true)
+![screen1 on](https://github.com/bunty-kumar/check_internet_globally/blob/master/screen1_internet_on.jpg?raw=true)
 
 ## Getting Started
 To use this code sample, follow these steps:
