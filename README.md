@@ -31,13 +31,13 @@ The Connectivity package is used to check the internet connectivity status. It p
 
 You can find the connectivity package documentation here: Connectivity Package.
 
-## Bloc Pattern
+Bloc Pattern
 In the bloc directory, we demonstrate how to implement the Bloc pattern for internet connectivity checks. We use the Bloc library to manage the state and events related to the network connectivity.
 
-## Cubit Pattern
+Cubit Pattern
 In the cubit directory, we demonstrate how to implement the Cubit pattern for internet connectivity checks. The Cubit pattern is a lightweight version of the Bloc pattern, ideal for simple use cases.
 
-## Provider Package
+Provider Package
 In the provider directory, we showcase how to use the Provider package for internet connectivity checks. The Provider package is a simple and flexible state management solution that integrates well with Flutter.
 
 ## Conclusion
