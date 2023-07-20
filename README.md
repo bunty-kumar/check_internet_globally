@@ -10,7 +10,7 @@ Each approach is showcased in separate directories (bloc, cubit, and provider), 
 
 ## Demo Video
 
-Click [here](https://youtube.com/shorts/j4ID9MyL3gA?feature=share4) to watch the demo video of the Quotes app.
+Click [here](https://youtube.com/shorts/5e5rMk0uBbE?feature=share4) to watch the demo video of the Quotes app.
 
 ## Screenshots
 
